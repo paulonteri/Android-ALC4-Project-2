@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Travelmantics</string>
+    <string name="hint_titile">Deal Titile</string>
+    <string name="hint_price">Price (numbers only)</string>
+    <string name="hint_description">Description</string>
+    <string name="save_menu">Save</string>
+</resources>

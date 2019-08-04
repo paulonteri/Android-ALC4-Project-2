@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "571471592391",
+    "firebase_url": "https://travelmatics-2431.firebaseio.com",
+    "project_id": "travelmatics-2431",
+    "storage_bucket": "travelmatics-2431.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571471592391:android:ed0d71c5dff9287b",
+        "android_client_info": {
+          "package_name": "onteri.com.travelmantics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571471592391-q2siqqnn1udsrpo034rpradji5m6at4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "onteri.com.travelmantics",
+            "certificate_hash": "f76c24e1113b30d9451305fd8bad419f8edcffb5"
+          }
+        },
+        {
+          "client_id": "571471592391-4tqrbpvk62s1blsia98iqurs9ajoiqel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzFKpKumidgOGb4dMHFRey5i3ye7s7VeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571471592391-4tqrbpvk62s1blsia98iqurs9ajoiqel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
